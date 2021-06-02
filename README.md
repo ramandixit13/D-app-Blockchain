@@ -1,5 +1,5 @@
 # D-App Blockchain
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20by-Raman%20Dixit-green)
 ---
 ## screenshots
 ### Homepage
